@@ -1,2 +1,2 @@
 # chessboard
-Raspberry pi zero w, AI chessboard through python and web server
+Raspberry pi zero w, AI chess board through python and web server
